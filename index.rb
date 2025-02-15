@@ -1,2 +1,2 @@
 puts "Hello, World!"
-puts 1 + 11
+puts 1 + 10
